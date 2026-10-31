@@ -1,0 +1,12 @@
+{
+  "name": "CCB Official Package Registry",
+  "version": 1,
+  "packages": {
+    "graphics": {
+      "version": "1.0.0",
+      "description": "Basic graphics helper functions for CCB",
+      "url": "packages/graphics-1.0.0.zip",
+      "sha256": "777f1341809cc0b2fa1d466e1ce5e7700d9996c6ce8150113033ff463cef2999"
+    }
+  }
+}
